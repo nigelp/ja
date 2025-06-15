@@ -1,0 +1,11 @@
+{
+  "name": "jamaican-self-realisation-tour-2025",
+  "version": "1.0.0",
+  "description": "Jamaican Self Realisation Tour 2025 Website",
+  "scripts": {
+    "start": "echo 'No start script defined'",
+    "build": "echo 'No build script defined'"
+  },
+  "author": "",
+  "license": "ISC"
+}
